@@ -14,3 +14,10 @@ The primary source of datd used here is Prossional survey.csv from an open free 
 - Power Bi
   1. DAX (Data Analysis Expressions) for calaculating Average salaries by job titles
   2. Power Query for utilized for data shaping, cleaning and combining data from multiple sources directly in Power BI.
+- GitHub for portfolio building
+
+### Exploratory Data Analysis
+EDA involved the exploring of the data to answer some questions such as;
+- which title best fit your current role
+- How happy are you in your current role
+- How difficult was it for you to break into data
