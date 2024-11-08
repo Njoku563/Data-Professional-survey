@@ -7,3 +7,10 @@ This Power Bi Dashboard Provides a Comprehensive view of key insights derived fr
 
 ### Data Sources
 The primary source of datd used here is Prossional survey.csv from an open free data source online such as kaggle.
+
+### Tools Used
+- Microsoft Excel
+  1. Data Cleaning and Aggregation of survey responses
+- Power Bi
+  1. DAX (Data Analysis Expressions) for calaculating Average salaries by job titles
+  2. Power Query for utilized for data shaping, cleaning and combining data from multiple sources directly in Power BI.
