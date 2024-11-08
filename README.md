@@ -2,5 +2,8 @@
 
 ### Project title; Data Professional Survey Dashboard
 
-#### Project Overview
+### Project Overview
 This Power Bi Dashboard Provides a Comprehensive view of key insights derived from a recent employee survey, offering an in-depth look at worker satisfacton, task management , preferred programming languages, salary trends across job titles and countries.With these insights, the organisation can make well informed changes to foster a motivated and thriving workforces to boost workplace satisfaction and productivity.
+
+### Data Sources
+The primary source of datd used here is Prossional survey.csv from an open free data source online such as kaggle.
